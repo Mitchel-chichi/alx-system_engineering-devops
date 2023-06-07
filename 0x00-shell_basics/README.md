@@ -1,1 +1,1 @@
-Printing working directory
+Display contents of directory
